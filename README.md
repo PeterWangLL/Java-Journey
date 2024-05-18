@@ -1,3 +1,2 @@
-# Page
+# Index
 
-Hello World！
