@@ -2,7 +2,7 @@
 
 ## MySQL <a href="#index" id="index"></a>
 
-* [Index](README.md)
+* [Why does InnoDB use B+Tree?](README.md)
 * [Execution](index/execution.md)
 * [Transaction](index/transaction.md)
 * [Log](index/log.md)
