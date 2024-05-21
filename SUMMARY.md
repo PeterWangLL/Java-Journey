@@ -4,6 +4,7 @@
 
 * [Why does InnoDB use B+Tree?](README.md)
 * [Clustering Index](index/clustering-index.md)
+* [Some Common Indexes](index/some-common-indexes.md)
 * [Execution](index/execution.md)
 * [Transaction](index/transaction.md)
 * [Log](index/log.md)
