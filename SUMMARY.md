@@ -6,6 +6,7 @@
 * [Clustering Index](index/clustering-index.md)
 * [Some Common Indexes](index/some-common-indexes.md)
 * [Index Condition Pushdown](index/index-condition-pushdown.md)
+* [Index Optimization](index/index-optimization.md)
 
 ## Redis
 
