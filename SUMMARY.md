@@ -7,6 +7,7 @@
 * [Some Common Indexes](index/some-common-indexes.md)
 * [Index Condition Pushdown](index/index-condition-pushdown.md)
 * [Index Optimization](index/index-optimization.md)
+* [Redo Log\&Bin Log](index/redo-log-and-bin-log.md)
 
 ## Redis
 
